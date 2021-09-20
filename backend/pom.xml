@@ -11,8 +11,8 @@
 	<groupId>com.rafaelmattos</groupId>
 	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dsvendas</name>
-	<description>Projeto de Spring React</description>
+	<name>DSVendas</name>
+	<description>Projeto Spring React</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
