@@ -1,6 +1,7 @@
 import Chart from 'react-apexcharts';
 
 const BarChart = () => {
+    
     const options = {
         plotOptions: {
             bar: {
